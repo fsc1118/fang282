@@ -108,3 +108,4 @@ nnoremap <silent> t :below  terminal<CR>
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gD <Plug>(coc-implementation)
 nmap <silent> gr <Plug>(coc-references)
+nnoremap gb <C-O>
